@@ -1,0 +1,33 @@
+sales
+add stock intentory on sales /
+-sales invoice
+add tools paid botton
+   --date paid, OR #        /
+   date_paid, or_no
+
+
+
+sales report PO and Collection
+Date, PO#, amount,sales, status(paid,unpaid ), date paid  /
+
+
+admin
+add - select all on column names 			/
+view all tables with delete button        /
+add view files on tables tools            /
+
+
+-puchace order
+add
+upload signature                 /
+add names                        /
+
+
+-stock inventory and assets
+print all                        /
+export all                       /
+
+individual print
+individual export
+
+
